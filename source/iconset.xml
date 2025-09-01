@@ -245,4 +245,11 @@
 <icon name="OP.63.EmergencyCoordinationCentre.png" type2525b="a-n-G"/>
 <icon name="OP.64.NationalCoordinationCentre.png" type2525b="a-n-G"/>
 <icon name="OP.65.USAR.png" type2525b="a-n-G"/>
+<icon name="NZTA.area-warnings.png" type2525b="a-n-G"/>
+<icon name="NZTA.message-signs.png" type2525b="a-n-G"/>
+<icon name="NZTA.road-closures.png" type2525b="a-n-G"/>
+<icon name="NZTA.road-hazards.png" type2525b="a-n-G"/>
+<icon name="NZTA.road-works.png" type2525b="a-n-G"/>
+<icon name="NZTA.traffic-cameras.png" type2525b="a-n-G"/>
+<icon name="NZTA.traffic-time-signs.png" type2525b="a-n-G"/>
 </iconset>
