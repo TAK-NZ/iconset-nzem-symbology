@@ -20,7 +20,7 @@ jobs:
       with:
         files: |
           Iconset-Package.zip
-          GEMA NZEM Symbology Set.zip
+          datapackage/iconsets/GEMA NZEM Symbology Set.zip
         generate_release_notes: true
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
