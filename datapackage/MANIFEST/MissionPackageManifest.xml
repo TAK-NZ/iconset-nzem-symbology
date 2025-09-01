@@ -1,0 +1,10 @@
+<MissionPackageManifest version="2">
+    <Configuration>
+        <Parameter name="uid" value="757e2f14-c9ba-499a-a4a8-70e4c3bc2e42"/>
+        <Parameter name="name" value="Iconset-Package.zip"/>
+        <Parameter name="onReceiveDelete" value="true"/>
+    </Configuration>
+    <Contents>
+        <Content ignore="false" zipEntry="iconsets/GEMA NZEM Symbology Set.zip" manifest="iconsets/GEMA NZEM Symbology Set.zip"/>
+    </Contents>
+</MissionPackageManifest>
